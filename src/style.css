@@ -6,7 +6,11 @@
 
 body {
   margin: 100px 0;
-  background: plum;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(251, 222, 238) 15.6%,
+    rgb(206, 201, 226) 80.3%
+  );
   color: white;
 }
 
